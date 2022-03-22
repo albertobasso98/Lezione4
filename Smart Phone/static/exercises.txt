@@ -1,0 +1,9 @@
+the application collects acceleration measures
+data is stored in a list
+a web page allows to see a graph of the stored data
+(use google chart, create a template, return the rendered string instead of saving to a file)
+
+Create a Surveillance application
+the application uses a smartphone (or the PC) to collect picture every 60 seconds
+all the pictures are saved in files
+a web page allows to see the last picture
